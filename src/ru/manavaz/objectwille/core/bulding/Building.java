@@ -1,4 +1,4 @@
-package ru.manavaz.bulding;
+package ru.manavaz.objectwille.core.bulding;
 
 public interface Building {
 

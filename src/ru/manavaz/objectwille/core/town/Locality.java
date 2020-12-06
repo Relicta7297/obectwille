@@ -1,4 +1,4 @@
-package ru.manavaz.town;
+package ru.manavaz.objectwille.core.town;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ru.manavaz.bulding;
+package ru.manavaz.objectwille.core.bulding;
 
 public class Tualet implements Building {
 

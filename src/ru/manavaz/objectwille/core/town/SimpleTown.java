@@ -1,7 +1,6 @@
-package ru.manavaz.town;
+package ru.manavaz.objectwille.core.town;
 
-import ru.manavaz.bulding.Building;
-import ru.manavaz.bulding.Tualet;
+import ru.manavaz.objectwille.core.bulding.Tualet;
 
 import java.util.ArrayList;
 import java.util.List;
